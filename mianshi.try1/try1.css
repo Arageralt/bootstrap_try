@@ -1,0 +1,7 @@
+.box{
+    flex-direction: column-reverse;
+    max-width: 70% ;
+    max-height: 70%;
+    display: flex;
+    display: -webkit-flex; /* Safari */
+}
